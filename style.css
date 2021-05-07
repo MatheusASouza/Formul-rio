@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(73, 73, 73);
+}
+fieldset{
+    width: 50%;
+    border: 0;
+}
+label{
+    font-size: 20px;
+}
+input{
+    font-size: 20px;
+    border: 0;
+}
+#botao{
+    background-color: #b8c0e6;
+}
+#botao:hover{
+    background-color: #9c9ce4;
+    transition: .5s;
+}
